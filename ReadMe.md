@@ -1,4 +1,4 @@
-## Olá! me chamo Gabriel mas pode me chamar de GB🤙
+## Olá! me chamo Gabriel🤙
 
 ![](https://github-readme-stats.vercel.app/api?username=GabrielAmrl&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
