@@ -1,4 +1,4 @@
-## Olá! me chamo Gabriel🤙
+## Olá! me chamo Gabriel Amaral 😁
 ![](https://github-readme-stats.vercel.app/api?username=GabrielAmrl&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## Minhas tecnologias
