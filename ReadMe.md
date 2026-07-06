@@ -1,4 +1,4 @@
-## Olá! me chamo Gabriel Amaral 😁
+## Olá! me chamo Gabriel Amaral 
 
 Analista de Dados Pleno com experiência no desenvolvimento de relatórios estratégicos, automação de processos (ETL) e análise de indicadores operacionais. Focado em transformar dados brutos em soluções que geram valor para o negócio.
 ![](https://github-readme-stats.vercel.app/api?username=GabrielAmrl&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
